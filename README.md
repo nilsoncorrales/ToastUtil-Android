@@ -8,5 +8,6 @@ esta es mi primera libreria en git hub , haremos las pruebas correspondientes
 -> maven { url 'https://jitpack.io' }
 
 *Paso 2. Agrega la dependencia
-
+implementation 'com.github.nilsoncorrales.ToastUtil-Android:MessageUtil:0.2.0'
+implementation 'com.github.nilsoncorrales.ToastUtil-Android:toastutil:0.2.0'
 
